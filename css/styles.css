@@ -1,131 +1,176 @@
-/* ------------------------------
-   Tipografía & Colores Base
---------------------------------*/
+/* -----------------------------------
+   Tipografía y colores base
+------------------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap');
+
+:root {
+  --azul-oscuro: #0f172a;
+  --azul-medio: #1e3a8a;
+  --azul-claro: #3b82f6;
+  --celeste: #60a5fa;
+  --fondo: #f1f5f9;
+  --gris-suave: #e2e8f0;
+  --texto: #1e293b;
+  --white: #ffffff;
+}
+
 body {
-  background: linear-gradient(135deg, #f3f4f6 0%, #e5e7eb 100%) !important;
+  background: var(--fondo);
   font-family: 'Inter', sans-serif;
-  padding-bottom: 50px;
+  color: var(--texto);
+  overflow-x: hidden;
+  padding-bottom: 40px;
 }
 
-h1 {
-  font-weight: 800;
-  letter-spacing: -1px;
-  color: #1f2937;
+
+/* -----------------------------------
+   NAVBAR MÓVIL
+------------------------------------*/
+#mobileNav {
+  background: var(--white);
+  padding: 10px 0;
+  border-bottom: 2px solid var(--gris-suave);
 }
 
 /* ------------------------------
-   Tarjeta Principal
---------------------------------*/
+   Sidebar Independiente (PC)
+------------------------------*/
+#sidebar {
+  width: 260px;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, #1e3a8a 0%, #0f172a 100%);
+  color: white;
+  overflow-y: auto;
+  border-right: 3px solid #3b82f6;
+  z-index: 2000;
+}
+
+#sidebar-content {
+  padding: 25px 20px 40px 20px;
+}
+
+#contenido {
+  margin-left: 260px; /* deja espacio para el sidebar */
+  min-height: 100vh;
+  padding-bottom: 60px;
+}
+
+/* Temas */
+#temasList li {
+  white-space: normal !important;
+  word-break: break-word !important;
+  line-height: 1.3;
+  padding: 12px 10px;
+  border: none;
+  background: transparent;
+  color: #e2e8f0;
+  cursor: pointer;
+  transition: 0.25s ease;
+  border-radius: 6px;
+}
+
+#temasList li:hover {
+  background: rgba(255,255,255,0.15);
+  color: white;
+  transform: translateX(4px);
+}
+
+#temasList li.active {
+  background: #3b82f6;
+  color: white;
+  font-weight: 600;
+}
+
+/* -----------------------------------
+   MÓVIL: sidebar deslizable
+-----------------------------------*/
+@media (max-width: 768px) {
+
+  #sidebar {
+    transform: translateX(-260px);
+    transition: transform .3s ease-in-out;
+  }
+
+  #sidebar.activo {
+    transform: translateX(0);
+    box-shadow: 0 4px 18px rgba(0,0,0,0.4);
+  }
+
+  #contenido {
+    margin-left: 0;
+  }
+}
+
+/* -----------------------------------
+   Tarjetas
+------------------------------------*/
 .card {
-  border-radius: 18px;
-  background: rgba(255, 255, 255, 0.75);
-  backdrop-filter: blur(12px);
-  border: 1px solid rgba(255, 255, 255, 0.4);
-  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
-  transition: transform 0.2s ease;
+  border-radius: 14px;
+  background: var(--white);
+  border: 1px solid var(--gris-suave);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+  transition: all 0.25s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  height: 6px;
+  width: 100%;
+  background: var(--azul-claro);
 }
 
 .card:hover {
-  transform: translateY(-3px);
+  transform: translateY(-5px);
+  box-shadow: 0 10px 26px rgba(0, 0, 0, 0.12);
 }
 
-/* ------------------------------
-   Tabla DataTables
---------------------------------*/
-#tablaCandidatos {
-  border-radius: 12px !important;
-  overflow: hidden;
-  background: white;
-}
-
-/* Encabezados */
-table.dataTable thead {
-  background: #1e3a8a;
-  color: white;
-}
-
-table.dataTable thead th {
+.card-title {
   font-weight: 700;
-  padding: 14px 10px;
+  color: var(--azul-medio);
+  font-size: 20px;
 }
 
-/* Filas */
-table.dataTable tbody tr {
-  transition: background 0.2s ease, transform 0.1s ease;
-}
-
-table.dataTable tbody tr:hover {
-  background: #eef2ff !important;
-  transform: scale(1.003);
-}
-
-/* Celdas */
-table.dataTable tbody td {
-  padding: 14px 10px !important;
+.card-text {
   font-size: 15px;
-  color: #374151;
-  line-height: 1.4;
+  line-height: 1.5;
+  color: #334155;
 }
 
-/* ------------------------------
-   Buscador DataTables
---------------------------------*/
-.dataTables_filter input {
-  border-radius: 10px;
-  border: 1px solid #9ca3af;
-  padding: 6px 10px;
-  outline: none !important;
-  transition: all 0.2s ease;
-}
-
-.dataTables_filter input:focus {
-  border-color: #2563eb;
-  box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.25);
-}
-
-/* ------------------------------
-   Selector "Mostrar X filas"
---------------------------------*/
-.dataTables_length select {
-  border-radius: 10px;
-  padding: 6px;
-}
-
-/* ------------------------------
-   Paginador
---------------------------------*/
-.dataTables_paginate .paginate_button {
-  border-radius: 8px !important;
-  padding: 6px 12px !important;
-  margin: 2px;
-  transition: all 0.2s ease;
-}
-
-.dataTables_paginate .paginate_button:hover {
-  background: #1e40af !important;
-  color: white !important;
-}
-
-.dataTables_paginate .paginate_button.current {
-  background: #1d4ed8 !important;
-  color: white !important;
-  border: none !important;
-}
-
-/* ------------------------------
-   Responsive
---------------------------------*/
+/* -----------------------------------
+   Mobile Cards
+------------------------------------*/
 @media (max-width: 768px) {
-  h1 {
-    font-size: 22px;
-    text-align: center;
+
+  #contenido {
+    padding-top: 90px;
   }
 
-  #tablaCandidatos td {
-    font-size: 13px;
+  #tituloTema {
+    font-size: 24px;
   }
 
-  #tablaCandidatos th {
+  .card {
+    border-radius: 12px;
+  }
+
+  .card-title {
+    font-size: 18px;
+  }
+
+  .card-text {
     font-size: 14px;
   }
+}
+/* FIX: Permitir que las temáticas largas se ajusten sin romper el layout */
+#temasList li {
+  white-space: normal !important;        /* Permite saltos de línea */
+  word-break: break-word !important;     /* Rompe palabras si es necesario */
+  line-height: 1.3;                      /* Mejora la lectura */
 }
