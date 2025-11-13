@@ -1,0 +1,421 @@
+[
+  {
+    "Tematica": "Rol del Estado / Economía",
+    "Candidato": "Jeannette Jara",
+    "Propuesta": "Propone un Estado activo que coordine inversión pública y privada, fortalezca la protección social y reduzca desigualdades estructurales. Busca avanzar hacia una economía más inclusiva y con equilibrio territorial."
+  },
+  {
+    "Tematica": "Rol del Estado / Economía",
+    "Candidato": "José Antonio Kast",
+    "Propuesta": "Promueve libertad de mercado con baja intervención estatal, simplificación regulatoria y fortalecimiento del emprendimiento. Busca reducir impuestos y reactivar la inversión privada."
+  },
+  {
+    "Tematica": "Rol del Estado / Economía",
+    "Candidato": "Johannes Kaiser",
+    "Propuesta": "Defiende un Estado mínimo centrado en funciones básicas, con reducción drástica de burocracia y carga tributaria. Promueve la privatización de empresas públicas."
+  },
+  {
+    "Tematica": "Rol del Estado / Economía",
+    "Candidato": "Evelyn Matthei",
+    "Propuesta": "Postula un Estado moderno y eficiente, con reducción de ministerios, mejor gestión pública y alianzas público-privadas para potenciar el crecimiento."
+  },
+
+  {
+    "Tematica": "Seguridad / Orden Público",
+    "Candidato": "Jeannette Jara",
+    "Propuesta": "Busca fortalecer instituciones policiales bajo control civil, mejorar inteligencia y priorizar prevención comunitaria. Propone combate al crimen con enfoque en derechos humanos."
+  },
+  {
+    "Tematica": "Seguridad / Orden Público",
+    "Candidato": "José Antonio Kast",
+    "Propuesta": "Plantea una estrategia implacable contra el crimen organizado, con aumento de penas, expulsiones rápidas y mayor apoyo a Carabineros para recuperar el orden."
+  },
+  {
+    "Tematica": "Seguridad / Orden Público",
+    "Candidato": "Johannes Kaiser",
+    "Propuesta": "Promueve mayor uso legítimo de la fuerza, simplificación penal y fortalecimiento de autodefensa regulada. Propone endurecer penas y limitar beneficios carcelarios."
+  },
+  {
+    "Tematica": "Seguridad / Orden Público",
+    "Candidato": "Evelyn Matthei",
+    "Propuesta": "Declara la seguridad como prioridad central del Estado. Busca modernizar policías, mejorar coordinación con fiscalía y desarticular bandas mediante inteligencia y tecnología."
+  },
+
+  {
+    "Tematica": "Trabajo / Empleo / Protección Social",
+    "Candidato": "Jeannette Jara",
+    "Propuesta": "Propone mejorar calidad del empleo, fortalecer negociación colectiva y ampliar protección social. Enfatiza inclusión laboral y seguridad económica para mujeres y jóvenes."
+  },
+  {
+    "Tematica": "Trabajo / Empleo / Protección Social",
+    "Candidato": "José Antonio Kast",
+    "Propuesta": "Promueve empleo basado en crecimiento económico, menos burocracia y mayor flexibilidad laboral. Plantea incentivos tributarios para PYMES."
+  },
+  {
+    "Tematica": "Trabajo / Empleo / Protección Social",
+    "Candidato": "Johannes Kaiser",
+    "Propuesta": "Busca flexibilizar profundamente el mercado laboral y eliminar regulaciones que aumentan costos. Fomenta uso de vouchers para capacitación autónoma."
+  },
+  {
+    "Tematica": "Trabajo / Empleo / Protección Social",
+    "Candidato": "Evelyn Matthei",
+    "Propuesta": "Promueve políticas activas de empleo, capacitación tecnológica y mayor participación laboral de mujeres. Propone corresponsabilidad Estado-privados."
+  },
+
+  {
+    "Tematica": "Educación / Salud / Bienestar",
+    "Candidato": "Jeannette Jara",
+    "Propuesta": "Impulsa fortalecimiento de educación y salud públicas, reducción de brechas territoriales y financiamiento estable. Busca avances en universalidad del acceso."
+  },
+  {
+    "Tematica": "Educación / Salud / Bienestar",
+    "Candidato": "José Antonio Kast",
+    "Propuesta": "Defiende libertad de elección en educación y salud, promoviendo un modelo mixto donde el sector privado tenga alto protagonismo y eficiencia en el gasto."
+  },
+  {
+    "Tematica": "Educación / Salud / Bienestar",
+    "Candidato": "Johannes Kaiser",
+    "Propuesta": "Propone sistema completamente liberalizado basado en vouchers, reduciendo el rol estatal como prestador directo y ampliando la competencia entre proveedores."
+  },
+  {
+    "Tematica": "Educación / Salud / Bienestar",
+    "Candidato": "Evelyn Matthei",
+    "Propuesta": "Busca mejorar gestión de la educación y salud públicas mediante digitalización, infraestructura y alianzas público-privadas. Prioriza reducir listas de espera."
+  },
+
+  {
+    "Tematica": "Minería / Energía",
+    "Candidato": "Jeannette Jara",
+    "Propuesta": "Propone gobernanza estatal del litio con alianzas público-privadas y estándares ambientales exigentes. Fomenta energías limpias y desarrollo responsable del territorio."
+  },
+  {
+    "Tematica": "Minería / Energía",
+    "Candidato": "José Antonio Kast",
+    "Propuesta": "Promueve inversión privada en minería y reducción de trabas burocráticas para acelerar proyectos. Busca competitividad energética con menor intervención estatal."
+  },
+  {
+    "Tematica": "Minería / Energía",
+    "Candidato": "Johannes Kaiser",
+    "Propuesta": "Propone liberalización total del sector, privatización de CODELCO y reducción significativa de regulaciones ambientales para favorecer inversión."
+  },
+  {
+    "Tematica": "Minería / Energía",
+    "Candidato": "Evelyn Matthei",
+    "Propuesta": "Plantea una Estrategia Nacional de Minerales Críticos, incorporando tecnología y apertura a inversión privada. Promueve energías renovables competitivas."
+  },
+
+  {
+    "Tematica": "Medio Ambiente / Cambio Climático",
+    "Candidato": "Jeannette Jara",
+    "Propuesta": "Impulsa transición ecológica justa, protección de ecosistemas y fortalecimiento de la institucionalidad ambiental. Propone inversión estatal en adaptación climática."
+  },
+  {
+    "Tematica": "Medio Ambiente / Cambio Climático",
+    "Candidato": "José Antonio Kast",
+    "Propuesta": "Promueve equilibrio entre desarrollo económico y protección ambiental, evitando regulaciones que frenen proyectos estratégicos para el país."
+  },
+  {
+    "Tematica": "Medio Ambiente / Cambio Climático",
+    "Candidato": "Johannes Kaiser",
+    "Propuesta": "Minimiza la prioridad estatal en cambio climático, reduciendo restricciones ambientales que considera ideológicas. Fomenta explotación intensiva de recursos."
+  },
+  {
+    "Tematica": "Medio Ambiente / Cambio Climático",
+    "Candidato": "Evelyn Matthei",
+    "Propuesta": "Busca avanzar a la carbono neutralidad mediante innovación verde, eficiencia energética e incentivos para empresas que reduzcan su impacto ambiental."
+  },
+
+  {
+    "Tematica": "Género / Diversidad",
+    "Candidato": "Jeannette Jara",
+    "Propuesta": "Promueve igualdad salarial, corresponsabilidad y erradicación de violencia de género. Propone fortalecer el Ministerio de la Mujer y programas preventivos."
+  },
+  {
+    "Tematica": "Género / Diversidad",
+    "Candidato": "José Antonio Kast",
+    "Propuesta": "Pone énfasis en seguridad de las mujeres, apoyo a la familia y prevención del delito. Mantiene posiciones conservadoras en diversidad sexual."
+  },
+  {
+    "Tematica": "Género / Diversidad",
+    "Candidato": "Johannes Kaiser",
+    "Propuesta": "Propone eliminar institucionalidad de género y reducir programas asociados, argumentando que generan gasto innecesario y sesgo ideológico."
+  },
+  {
+    "Tematica": "Género / Diversidad",
+    "Candidato": "Evelyn Matthei",
+    "Propuesta": "Fortalece políticas contra la violencia de género y apoyo a mujeres en el trabajo. Enfatiza corresponsabilidad sin expansión institucional excesiva."
+  },
+
+  {
+    "Tematica": "Descentralización",
+    "Candidato": "Jeannette Jara",
+    "Propuesta": "Busca fortalecer gobiernos regionales otorgando más competencias, financiamiento estable y autonomía en proyectos locales."
+  },
+  {
+    "Tematica": "Descentralización",
+    "Candidato": "José Antonio Kast",
+    "Propuesta": "Promueve descentralización administrativa moderada, evitando duplicidades institucionales y manteniendo control nacional estratégico."
+  },
+  {
+    "Tematica": "Descentralización",
+    "Candidato": "Johannes Kaiser",
+    "Propuesta": "Propone recentralizar funciones para reducir costos y aumentar eficiencia, evitando expansión de gobiernos regionales."
+  },
+  {
+    "Tematica": "Descentralización",
+    "Candidato": "Evelyn Matthei",
+    "Propuesta": "Plantea mayor autonomía regional con evaluación de resultados y fortalecimiento de capacidades locales."
+  },
+
+  {
+    "Tematica": "Pensiones",
+    "Candidato": "Jeannette Jara",
+    "Propuesta": "Propone un sistema mixto con componente solidario fuerte, administrado parcialmente por el Estado. Busca pensiones dignas y redistribución."
+  },
+  {
+    "Tematica": "Pensiones",
+    "Candidato": "José Antonio Kast",
+    "Propuesta": "Defiende capitalización individual y fortalecimiento de AFP, con incentivos para aumentar el ahorro personal y la autonomía del trabajador."
+  },
+  {
+    "Tematica": "Pensiones",
+    "Candidato": "Johannes Kaiser",
+    "Propuesta": "Propone libertad total de elección de administradoras privadas sin intervención estatal, eliminando cualquier componente solidario obligatorio."
+  },
+  {
+    "Tematica": "Pensiones",
+    "Candidato": "Evelyn Matthei",
+    "Propuesta": "Propone sistema mixto con un pilar solidario financiado por impuestos y uno de ahorro individual, buscando equilibrio entre solidaridad y responsabilidad."
+  },
+
+  {
+    "Tematica": "Vivienda",
+    "Candidato": "Jeannette Jara",
+    "Propuesta": "Plantea un plan nacional de vivienda pública, cooperativa y social, priorizando integración barrial y acceso equitativo."
+  },
+  {
+    "Tematica": "Vivienda",
+    "Candidato": "José Antonio Kast",
+    "Propuesta": "Propone incentivar oferta privada, agilizar permisos y flexibilizar normas urbanísticas para aumentar la construcción."
+  },
+  {
+    "Tematica": "Vivienda",
+    "Candidato": "Johannes Kaiser",
+    "Propuesta": "Propone eliminar regulaciones territoriales, subsidios y trabas que encarecen la vivienda, dejando el mercado actuar libremente."
+  },
+  {
+    "Tematica": "Vivienda",
+    "Candidato": "Evelyn Matthei",
+    "Propuesta": "Busca acelerar construcción mediante alianzas público-privadas, optimización de permisos y mejores estándares urbanos."
+  },
+
+  {
+    "Tematica": "Migración",
+    "Candidato": "Jeannette Jara",
+    "Propuesta": "Promueve regularización con enfoque humanitario, control fronterizo eficiente y políticas de integración social."
+  },
+  {
+    "Tematica": "Migración",
+    "Candidato": "José Antonio Kast",
+    "Propuesta": "Propone fronteras estrictas, expulsiones rápidas y migración altamente selectiva enfocada en seguridad nacional."
+  },
+  {
+    "Tematica": "Migración",
+    "Candidato": "Johannes Kaiser",
+    "Propuesta": "Plantea cierre casi total de fronteras y restricción severa a visas y beneficios estatales para migrantes."
+  },
+  {
+    "Tematica": "Migración",
+    "Candidato": "Evelyn Matthei",
+    "Propuesta": "Busca migración regulada, fortalecimiento del control fronterizo y acuerdos internacionales para retornos."
+  },
+
+  {
+    "Tematica": "Relaciones Internacionales",
+    "Candidato": "Jeannette Jara",
+    "Propuesta": "Defiende multilateralismo, integración latinoamericana y un enfoque de derechos humanos como eje de la política exterior."
+  },
+  {
+    "Tematica": "Relaciones Internacionales",
+    "Candidato": "José Antonio Kast",
+    "Propuesta": "Propone profundizar relaciones con EE.UU., Israel y economías desarrolladas, alejándose de alianzas con gobiernos de izquierda."
+  },
+  {
+    "Tematica": "Relaciones Internacionales",
+    "Candidato": "Johannes Kaiser",
+    "Propuesta": "Busca relaciones pragmáticas centradas en comercio y seguridad, limitando participación en organismos multilaterales."
+  },
+  {
+    "Tematica": "Relaciones Internacionales",
+    "Candidato": "Evelyn Matthei",
+    "Propuesta": "Promueve política exterior equilibrada, fortalecimiento de tratados comerciales y liderazgo regional."
+  },
+
+  {
+    "Tematica": "Ciencia / Tecnología / Innovación",
+    "Candidato": "Jeannette Jara",
+    "Propuesta": "Plantea inversión estatal en investigación y desarrollo, fortaleciendo universidades públicas y ecosistemas de innovación."
+  },
+  {
+    "Tematica": "Ciencia / Tecnología / Innovación",
+    "Candidato": "José Antonio Kast",
+    "Propuesta": "Propone incentivos tributarios a empresas innovadoras y fomento de emprendimientos tecnológicos."
+  },
+  {
+    "Tematica": "Ciencia / Tecnología / Innovación",
+    "Candidato": "Johannes Kaiser",
+    "Propuesta": "Promueve ecosistema tecnológico completamente libre, sin fondos públicos, favoreciendo competencia privada."
+  },
+  {
+    "Tematica": "Ciencia / Tecnología / Innovación",
+    "Candidato": "Evelyn Matthei",
+    "Propuesta": "Busca desarrollar innovación con colaboración público-privada, enfocándose en digitalización y automatización."
+  },
+
+  {
+    "Tematica": "Modernización del Estado",
+    "Candidato": "Jeannette Jara",
+    "Propuesta": "Propone mayor regulación, transparencia, meritocracia y fortalecimiento administrativo para un Estado eficiente."
+  },
+  {
+    "Tematica": "Modernización del Estado",
+    "Candidato": "José Antonio Kast",
+    "Propuesta": "Busca reducir tamaño del Estado, eliminar burocracia y fusionar ministerios para bajar costos."
+  },
+  {
+    "Tematica": "Modernización del Estado",
+    "Candidato": "Johannes Kaiser",
+    "Propuesta": "Promueve Estado mínimo, privatización de servicios públicos y eliminación de regulaciones amplias."
+  },
+  {
+    "Tematica": "Modernización del Estado",
+    "Candidato": "Evelyn Matthei",
+    "Propuesta": "Propone profesionalización del sector público, metas de desempeño y digitalización completa del Estado."
+  },
+
+  {
+    "Tematica": "Cultura / Patrimonio",
+    "Candidato": "Jeannette Jara",
+    "Propuesta": "Promueve cultura como derecho social, con inversión estatal en infraestructura y acceso cultural."
+  },
+  {
+    "Tematica": "Cultura / Patrimonio",
+    "Candidato": "José Antonio Kast",
+    "Propuesta": "Impulsa financiamiento cultural privado, priorizando proyectos sin orientación ideológica."
+  },
+  {
+    "Tematica": "Cultura / Patrimonio",
+    "Candidato": "Johannes Kaiser",
+    "Propuesta": "Cuestiona gasto cultural estatal y propone un mercado cultural basado en oferta y demanda."
+  },
+  {
+    "Tematica": "Cultura / Patrimonio",
+    "Candidato": "Evelyn Matthei",
+    "Propuesta": "Plantea protección patrimonial, apoyo a espacios culturales y eficiencia en la asignación de fondos."
+  },
+
+  {
+    "Tematica": "Salud Mental",
+    "Candidato": "Jeannette Jara",
+    "Propuesta": "Propone fortalecer atención pública de salud mental, ampliar equipos comunitarios y aumentar presupuesto."
+  },
+  {
+    "Tematica": "Salud Mental",
+    "Candidato": "José Antonio Kast",
+    "Propuesta": "Busca fortalecer redes comunitarias, apoyo familiar y colaboración con el sector privado en terapias."
+  },
+  {
+    "Tematica": "Salud Mental",
+    "Candidato": "Johannes Kaiser",
+    "Propuesta": "Reduce rol estatal en salud mental, promoviendo oferta privada y libertad de elección."
+  },
+  {
+    "Tematica": "Salud Mental",
+    "Candidato": "Evelyn Matthei",
+    "Propuesta": "Propone mejorar acceso a servicios, digitalizar atención y ampliar programas de prevención."
+  },
+
+  {
+    "Tematica": "Justicia / Reformas Judiciales",
+    "Candidato": "Jeannette Jara",
+    "Propuesta": "Busca equilibrar garantías y seguridad, fortaleciendo defensoría, fiscalía y acceso a justicia."
+  },
+  {
+    "Tematica": "Justicia / Reformas Judiciales",
+    "Candidato": "José Antonio Kast",
+    "Propuesta": "Propone endurecer penas, limitar beneficios y acelerar procesos judiciales."
+  },
+  {
+    "Tematica": "Justicia / Reformas Judiciales",
+    "Candidato": "Johannes Kaiser",
+    "Propuesta": "Promueve reformas para juicios rápidos, penas más duras y reducción de beneficios penitenciarios."
+  },
+  {
+    "Tematica": "Justicia / Reformas Judiciales",
+    "Candidato": "Evelyn Matthei",
+    "Propuesta": "Busca modernizar tribunales, reducir tiempos procesales y mejorar coordinación institucional."
+  },
+
+  {
+    "Tematica": "Economía Digital / Competencia",
+    "Candidato": "Jeannette Jara",
+    "Propuesta": "Propone regulación de plataformas digitales, protección de datos y desarrollo de soberanía tecnológica pública."
+  },
+  {
+    "Tematica": "Economía Digital / Competencia",
+    "Candidato": "José Antonio Kast",
+    "Propuesta": "Promueve libre competencia digital, incentivo al emprendimiento tecnológico y menos burocracia."
+  },
+  {
+    "Tematica": "Economía Digital / Competencia",
+    "Candidato": "Johannes Kaiser",
+    "Propuesta": "Propone mínima regulación en servicios digitales para permitir competencia absoluta y rápida innovación."
+  },
+  {
+    "Tematica": "Economía Digital / Competencia",
+    "Candidato": "Evelyn Matthei",
+    "Propuesta": "Busca modernizar normativas para economía digital, promover seguridad cibernética y proteger consumidores."
+  },
+
+  {
+    "Tematica": "Transporte / Infraestructura",
+    "Candidato": "Jeannette Jara",
+    "Propuesta": "Propone inversión estatal en transporte público, conectividad rural y obras públicas que integren territorios."
+  },
+  {
+    "Tematica": "Transporte / Infraestructura",
+    "Candidato": "José Antonio Kast",
+    "Propuesta": "Promueve infraestructura concesionada, carreteras privadas y modelos de inversión acelerados."
+  },
+  {
+    "Tematica": "Transporte / Infraestructura",
+    "Candidato": "Johannes Kaiser",
+    "Propuesta": "Plantea reducir inversión estatal en infraestructura y dejar el desarrollo vial principalmente al mercado."
+  },
+  {
+    "Tematica": "Transporte / Infraestructura",
+    "Candidato": "Evelyn Matthei",
+    "Propuesta": "Busca modernizar transporte con proyectos multimodales, mejor gestión de concesiones y movilidad sostenible."
+  },
+
+  {
+    "Tematica": "Agricultura / Desarrollo Rural",
+    "Candidato": "Jeannette Jara",
+    "Propuesta": "Propone apoyo estatal a agricultura familiar, manejo sostenible del agua y fortalecimiento de zonas rurales."
+  },
+  {
+    "Tematica": "Agricultura / Desarrollo Rural",
+    "Candidato": "José Antonio Kast",
+    "Propuesta": "Favorece inversión agrícola de gran escala, seguridad hídrica y apertura comercial para exportadores."
+  },
+  {
+    "Tematica": "Agricultura / Desarrollo Rural",
+    "Candidato": "Johannes Kaiser",
+    "Propuesta": "Propone eliminar subsidios y regulaciones agrícolas, dejando el desarrollo rural al libre mercado."
+  },
+  {
+    "Tematica": "Agricultura / Desarrollo Rural",
+    "Candidato": "Evelyn Matthei",
+    "Propuesta": "Busca modernizar el riego, digitalizar el sector agrícola y apoyar innovación rural con alianzas público-privadas."
+  }
+]
