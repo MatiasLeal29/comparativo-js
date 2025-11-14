@@ -19,7 +19,26 @@
     "Candidato": "Evelyn Matthei",
     "Propuesta": "Postula un Estado moderno y eficiente, con reducción de ministerios, mejor gestión pública y alianzas público-privadas para potenciar el crecimiento."
   },
-
+  {
+    "Tematica": "Rol del Estado / Economía",
+    "Candidato": "Harold Mayne-Nicholls",
+    "Propuesta": "Estado regulador y facilitador de la actividad empresarial y la innovación. Propone el refuerzo de InvestChile y la creación de Centros de Competitividad Territorial (CCT). No contempla la creación de empresas públicas."
+  },
+  {
+    "Tematica": "Rol del Estado / Economía",
+    "Candidato": "Marco Enríquez-Ominami",
+    "Propuesta": "Plantea una 'Nueva Alianza entre el Estado y el Mercado'. Busca una Agenda pro-crecimiento e inversión (2026–2030) y modernizar empresas estatales estratégicas como CODELCO, BancoEstado y ENAP."
+  },
+  {
+    "Tematica": "Rol del Estado / Economía",
+    "Candidato": "Franco Parisi",
+    "Propuesta": "Propone un 'Estado Consciente e Inteligente', enfocado en la disciplina fiscal, la eficiencia y las cuentas claras. Busca revisar todos los programas estatales y limitar los sueldos de la Alta Dirección Pública."
+  },
+  {
+    "Tematica": "Rol del Estado / Economía",
+    "Candidato": "Eduardo Artés",
+    "Propuesta": "Construcción del socialismo en Chile. Propone la nacionalización, estatización y expropiación de empresas estratégicas, el control estatal de la banca y el uso de la planificación central."
+  },
   {
     "Tematica": "Seguridad / Orden Público",
     "Candidato": "Jeannette Jara",
@@ -40,7 +59,26 @@
     "Candidato": "Evelyn Matthei",
     "Propuesta": "Declara la seguridad como prioridad central del Estado. Busca modernizar policías, mejorar coordinación con fiscalía y desarticular bandas mediante inteligencia y tecnología."
   },
-
+  {
+    "Tematica": "Seguridad / Orden Público",
+    "Candidato": "Harold Mayne-Nicholls",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
+  {
+    "Tematica": "Seguridad / Orden Público",
+    "Candidato": "Marco Enríquez-Ominami",
+    "Propuesta": "Creación del Sistema Nacional de Inteligencia Criminal (SNIC). Control de fronteras con inteligencia y protección militar de infraestructura crítica para liberar capacidades policiales."
+  },
+  {
+    "Tematica": "Seguridad / Orden Público",
+    "Candidato": "Franco Parisi",
+    "Propuesta": "Seguridad sin excusas. Define el conflicto en el sur como 'terrorismo'. Propone fortalecer la defensa fronteriza y la inteligencia para el combate al crimen organizado."
+  },
+  {
+    "Tematica": "Seguridad / Orden Público",
+    "Candidato": "Eduardo Artés",
+    "Propuesta": "Propone la refundación de las Fuerzas Armadas (FF.AA.) debido a su 'ideología fascista' y un reequipamiento militar enfocado en la defensa de la soberanía nacional."
+  },
   {
     "Tematica": "Trabajo / Empleo / Protección Social",
     "Candidato": "Jeannette Jara",
@@ -61,7 +99,26 @@
     "Candidato": "Evelyn Matthei",
     "Propuesta": "Promueve políticas activas de empleo, capacitación tecnológica y mayor participación laboral de mujeres. Propone corresponsabilidad Estado-privados."
   },
-
+  {
+    "Tematica": "Trabajo / Empleo / Protección Social",
+    "Candidato": "Harold Mayne-Nicholls",
+    "Propuesta": "Propone mejorar el acceso al crédito para PyMEs a través de un programa con BancoEstado con garantías estatales."
+  },
+  {
+    "Tematica": "Trabajo / Empleo / Protección Social",
+    "Candidato": "Marco Enríquez-Ominami",
+    "Propuesta": "Lanzamiento de un Plan Nacional de Empleo para crear 1.200.000 empleos directos e indirectos."
+  },
+  {
+    "Tematica": "Trabajo / Empleo / Protección Social",
+    "Candidato": "Franco Parisi",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
+  {
+    "Tematica": "Trabajo / Empleo / Protección Social",
+    "Candidato": "Eduardo Artés",
+    "Propuesta": "Propone una jornada laboral de 35 horas. Garantiza el derecho a la sindicalización ilimitada y la huelga, junto con un ingreso de subsistencia para los cesantes."
+  },
   {
     "Tematica": "Educación / Salud / Bienestar",
     "Candidato": "Jeannette Jara",
@@ -82,7 +139,26 @@
     "Candidato": "Evelyn Matthei",
     "Propuesta": "Busca mejorar gestión de la educación y salud públicas mediante digitalización, infraestructura y alianzas público-privadas. Prioriza reducir listas de espera."
   },
-
+  {
+    "Tematica": "Educación / Salud / Bienestar",
+    "Candidato": "Harold Mayne-Nicholls",
+    "Propuesta": "Revisión de los precios de los medicamentos para avanzar hacia 'precios justos'. Busca que Fonasa implemente la modalidad de cobertura complementaria y la Ficha Electrónica Única en Salud."
+  },
+  {
+    "Tematica": "Educación / Salud / Bienestar",
+    "Candidato": "Marco Enríquez-Ominami",
+    "Propuesta": "Sistema de Salud Universal, Justo y Eficiente. Promete 'Listas de Espera Cero'. Universalizar la educación inicial gratuita desde los 2 años. Énfasis en salud mental."
+  },
+  {
+    "Tematica": "Educación / Salud / Bienestar",
+    "Candidato": "Franco Parisi",
+    "Propuesta": "Áreas estratégicas: 'Salud a tiempo' y 'Educación con sentido'. Busca soluciones concretas y eficientes para problemas reales en estas áreas."
+  },
+  {
+    "Tematica": "Educación / Salud / Bienestar",
+    "Candidato": "Eduardo Artés",
+    "Propuesta": "Impulsa el fortalecimiento de la educación y salud públicas como derechos sociales, coherente con el proyecto de construcción socialista."
+  },
   {
     "Tematica": "Minería / Energía",
     "Candidato": "Jeannette Jara",
@@ -103,7 +179,26 @@
     "Candidato": "Evelyn Matthei",
     "Propuesta": "Plantea una Estrategia Nacional de Minerales Críticos, incorporando tecnología y apertura a inversión privada. Promueve energías renovables competitivas."
   },
-
+  {
+    "Tematica": "Minería / Energía",
+    "Candidato": "Harold Mayne-Nicholls",
+    "Propuesta": "Acelerar la descarbonización cerrando centrales a carbón y potenciando la energía limpia. En minería, prioriza el encadenamiento productivo y la manufactura de cobre de alto valor agregado."
+  },
+  {
+    "Tematica": "Minería / Energía",
+    "Candidato": "Marco Enríquez-Ominami",
+    "Propuesta": "Modernizar CODELCO y ENAP (Pacto Productivo). Busca consolidar una Transición Verde."
+  },
+  {
+    "Tematica": "Minería / Energía",
+    "Candidato": "Franco Parisi",
+    "Propuesta": "Área estratégica: 'Minería para hoy, minería para Chile' y 'Energía y Medio Ambiente: nuestro potencial'."
+  },
+  {
+    "Tematica": "Minería / Energía",
+    "Candidato": "Eduardo Artés",
+    "Propuesta": "Promueve el control estatal de la energía. Lucha contra el 'saqueo' de recursos naturales (cobre, litio) por monopolios extranjeros. Considera seriamente la energía nuclear."
+  },
   {
     "Tematica": "Medio Ambiente / Cambio Climático",
     "Candidato": "Jeannette Jara",
@@ -124,7 +219,26 @@
     "Candidato": "Evelyn Matthei",
     "Propuesta": "Busca avanzar a la carbono neutralidad mediante innovación verde, eficiencia energética e incentivos para empresas que reduzcan su impacto ambiental."
   },
-
+  {
+    "Tematica": "Medio Ambiente / Cambio Climático",
+    "Candidato": "Harold Mayne-Nicholls",
+    "Propuesta": "Cumplir la meta de descarbonización (2035-2040). Revisar exenciones regresivas y avanzar en 'impuestos verdes' (aumento de impuestos a emisiones contaminantes)."
+  },
+  {
+    "Tematica": "Medio Ambiente / Cambio Climático",
+    "Candidato": "Marco Enríquez-Ominami",
+    "Propuesta": "Transición Verde y Conservación de Ecosistemas Estratégicos. Propone una Reforma Hídrica y la creación de una Agencia Nacional del Agua."
+  },
+  {
+    "Tematica": "Medio Ambiente / Cambio Climático",
+    "Candidato": "Franco Parisi",
+    "Propuesta": "Área estratégica: 'Energía y Medio Ambiente: nuestro potencial'."
+  },
+  {
+    "Tematica": "Medio Ambiente / Cambio Climático",
+    "Candidato": "Eduardo Artés",
+    "Propuesta": "No se menciona en el resumen disponible. Su foco es la soberanía sobre los recursos y la industrialización."
+  },
   {
     "Tematica": "Género / Diversidad",
     "Candidato": "Jeannette Jara",
@@ -145,7 +259,26 @@
     "Candidato": "Evelyn Matthei",
     "Propuesta": "Fortalece políticas contra la violencia de género y apoyo a mujeres en el trabajo. Enfatiza corresponsabilidad sin expansión institucional excesiva."
   },
-
+  {
+    "Tematica": "Género / Diversidad",
+    "Candidato": "Harold Mayne-Nicholls",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
+  {
+    "Tematica": "Género / Diversidad",
+    "Candidato": "Marco Enríquez-Ominami",
+    "Propuesta": "Propone políticas específicas para 'Mujeres Cuidadoras' (mencionado como pilar, sin detalle en el resumen)."
+  },
+  {
+    "Tematica": "Género / Diversidad",
+    "Candidato": "Franco Parisi",
+    "Propuesta": "Área estratégica: 'Familias, Infancias y Mujeres'."
+  },
+  {
+    "Tematica": "Género / Diversidad",
+    "Candidato": "Eduardo Artés",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
   {
     "Tematica": "Descentralización",
     "Candidato": "Jeannette Jara",
@@ -166,7 +299,26 @@
     "Candidato": "Evelyn Matthei",
     "Propuesta": "Plantea mayor autonomía regional con evaluación de resultados y fortalecimiento de capacidades locales."
   },
-
+  {
+    "Tematica": "Descentralización",
+    "Candidato": "Harold Mayne-Nicholls",
+    "Propuesta": "Plantea la creación de Centros de Competitividad Territorial (CCT) en universidades públicas regionales, inspirados en la experiencia del País Vasco."
+  },
+  {
+    "Tematica": "Descentralización",
+    "Candidato": "Marco Enríquez-Ominami",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
+  {
+    "Tematica": "Descentralización",
+    "Candidato": "Franco Parisi",
+    "Propuesta": "No se menciona en el resumen disponible. El foco principal está en la eficiencia del Estado central."
+  },
+  {
+    "Tematica": "Descentralización",
+    "Candidato": "Eduardo Artés",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
   {
     "Tematica": "Pensiones",
     "Candidato": "Jeannette Jara",
@@ -187,7 +339,26 @@
     "Candidato": "Evelyn Matthei",
     "Propuesta": "Propone sistema mixto con un pilar solidario financiado por impuestos y uno de ahorro individual, buscando equilibrio entre solidaridad y responsabilidad."
   },
-
+  {
+    "Tematica": "Pensiones",
+    "Candidato": "Harold Mayne-Nicholls",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
+  {
+    "Tematica": "Pensiones",
+    "Candidato": "Marco Enríquez-Ominami",
+    "Propuesta": "Propone un Sistema Nacional de Pensiones (SNP) con cuentas nacionales, transición ordenada desde las AFP hacia un sistema sin fines de lucro, y Pensión Garantizada Universal escalonada."
+  },
+  {
+    "Tematica": "Pensiones",
+    "Candidato": "Franco Parisi",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
+  {
+    "Tematica": "Pensiones",
+    "Candidato": "Eduardo Artés",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
   {
     "Tematica": "Vivienda",
     "Candidato": "Jeannette Jara",
@@ -208,7 +379,26 @@
     "Candidato": "Evelyn Matthei",
     "Propuesta": "Busca acelerar construcción mediante alianzas público-privadas, optimización de permisos y mejores estándares urbanos."
   },
-
+  {
+    "Tematica": "Vivienda",
+    "Candidato": "Harold Mayne-Nicholls",
+    "Propuesta": "Propone incentivos para que inversionistas institucionales (como las AFP) financien hipotecas de viviendas sociales. Aplicar la lógica de concesiones para catalizar la construcción de vivienda social."
+  },
+  {
+    "Tematica": "Vivienda",
+    "Candidato": "Marco Enríquez-Ominami",
+    "Propuesta": "Plan de construcción de 750.000 viviendas sociales y de integración social al 2030. Foco en ciudades sustentables."
+  },
+  {
+    "Tematica": "Vivienda",
+    "Candidato": "Franco Parisi",
+    "Propuesta": "Área estratégica: 'Vivienda y Bienes de Chile'."
+  },
+  {
+    "Tematica": "Vivienda",
+    "Candidato": "Eduardo Artés",
+    "Propuesta": "No se menciona en el resumen disponible. La vivienda es un derecho social implícito en el programa socialista."
+  },
   {
     "Tematica": "Migración",
     "Candidato": "Jeannette Jara",
@@ -229,7 +419,26 @@
     "Candidato": "Evelyn Matthei",
     "Propuesta": "Busca migración regulada, fortalecimiento del control fronterizo y acuerdos internacionales para retornos."
   },
-
+  {
+    "Tematica": "Migración",
+    "Candidato": "Harold Mayne-Nicholls",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
+  {
+    "Tematica": "Migración",
+    "Candidato": "Marco Enríquez-Ominami",
+    "Propuesta": "Propuesta de 'Migración saludable' (mencionado como pilar, sin detalle en el resumen)."
+  },
+  {
+    "Tematica": "Migración",
+    "Candidato": "Franco Parisi",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
+  {
+    "Tematica": "Migración",
+    "Candidato": "Eduardo Artés",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
   {
     "Tematica": "Relaciones Internacionales",
     "Candidato": "Jeannette Jara",
@@ -250,7 +459,26 @@
     "Candidato": "Evelyn Matthei",
     "Propuesta": "Promueve política exterior equilibrada, fortalecimiento de tratados comerciales y liderazgo regional."
   },
-
+  {
+    "Tematica": "Relaciones Internacionales",
+    "Candidato": "Harold Mayne-Nicholls",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
+  {
+    "Tematica": "Relaciones Internacionales",
+    "Candidato": "Marco Enríquez-Ominami",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
+  {
+    "Tematica": "Relaciones Internacionales",
+    "Candidato": "Franco Parisi",
+    "Propuesta": "No se menciona en el resumen disponible. Se incluye un pilar de 'Corredores bioceánicos'."
+  },
+  {
+    "Tematica": "Relaciones Internacionales",
+    "Candidato": "Eduardo Artés",
+    "Propuesta": "Política exterior independiente y anti-imperialista. Promueve la ruptura de relaciones con 'la entidad sionista llamada Israel'."
+  },
   {
     "Tematica": "Ciencia / Tecnología / Innovación",
     "Candidato": "Jeannette Jara",
@@ -271,7 +499,26 @@
     "Candidato": "Evelyn Matthei",
     "Propuesta": "Busca desarrollar innovación con colaboración público-privada, enfocándose en digitalización y automatización."
   },
-
+  {
+    "Tematica": "Ciencia / Tecnología / Innovación",
+    "Candidato": "Harold Mayne-Nicholls",
+    "Propuesta": "Creación de una Oficina Nacional de Analítica de Datos e IA. Impulso a sandboxes regulatorios para Fintech, telemedicina. Uso de blockchain en compras públicas."
+  },
+  {
+    "Tematica": "Ciencia / Tecnología / Innovación",
+    "Candidato": "Marco Enríquez-Ominami",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
+  {
+    "Tematica": "Ciencia / Tecnología / Innovación",
+    "Candidato": "Franco Parisi",
+    "Propuesta": "Área estratégica: 'Ciencia, Tecnología e Innovación'."
+  },
+  {
+    "Tematica": "Ciencia / Tecnología / Innovación",
+    "Candidato": "Eduardo Artés",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
   {
     "Tematica": "Modernización del Estado",
     "Candidato": "Jeannette Jara",
@@ -292,7 +539,26 @@
     "Candidato": "Evelyn Matthei",
     "Propuesta": "Propone profesionalización del sector público, metas de desempeño y digitalización completa del Estado."
   },
-
+  {
+    "Tematica": "Modernización del Estado",
+    "Candidato": "Harold Mayne-Nicholls",
+    "Propuesta": "Ventanilla única digital nacional para inversión. Creación de un órgano autónomo para funciones administrativas del Poder Judicial. Refundir reparticiones ligadas a la presidencia."
+  },
+  {
+    "Tematica": "Modernización del Estado",
+    "Candidato": "Marco Enríquez-Ominami",
+    "Propuesta": "Se centra en la modernización de empresas estatales estratégicas (CODELCO, ENAP, BancoEstado)."
+  },
+  {
+    "Tematica": "Modernización del Estado",
+    "Candidato": "Franco Parisi",
+    "Propuesta": "Tope de sueldo de $5 millones CLP para la Alta Dirección Pública. Implementación de la 'Ley Topo' (whistleblower) y revisión de gastos en compras públicas."
+  },
+  {
+    "Tematica": "Modernización del Estado",
+    "Candidato": "Eduardo Artés",
+    "Propuesta": "Eliminación de sueldos vitalicios/millonarios para funcionarios. Propone un sistema unicameral (Asamblea de los Pueblos) suprimiendo el Senado."
+  },
   {
     "Tematica": "Cultura / Patrimonio",
     "Candidato": "Jeannette Jara",
@@ -313,7 +579,26 @@
     "Candidato": "Evelyn Matthei",
     "Propuesta": "Plantea protección patrimonial, apoyo a espacios culturales y eficiencia en la asignación de fondos."
   },
-
+  {
+    "Tematica": "Cultura / Patrimonio",
+    "Candidato": "Harold Mayne-Nicholls",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
+  {
+    "Tematica": "Cultura / Patrimonio",
+    "Candidato": "Marco Enríquez-Ominami",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
+  {
+    "Tematica": "Cultura / Patrimonio",
+    "Candidato": "Franco Parisi",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
+  {
+    "Tematica": "Cultura / Patrimonio",
+    "Candidato": "Eduardo Artés",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
   {
     "Tematica": "Salud Mental",
     "Candidato": "Jeannette Jara",
@@ -334,7 +619,26 @@
     "Candidato": "Evelyn Matthei",
     "Propuesta": "Propone mejorar acceso a servicios, digitalizar atención y ampliar programas de prevención."
   },
-
+  {
+    "Tematica": "Salud Mental",
+    "Candidato": "Harold Mayne-Nicholls",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
+  {
+    "Tematica": "Salud Mental",
+    "Candidato": "Marco Enríquez-Ominami",
+    "Propuesta": "Salud Mental: Una Respuesta Estructural (Pilar 6 en su plan de Salud)."
+  },
+  {
+    "Tematica": "Salud Mental",
+    "Candidato": "Franco Parisi",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
+  {
+    "Tematica": "Salud Mental",
+    "Candidato": "Eduardo Artés",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
   {
     "Tematica": "Justicia / Reformas Judiciales",
     "Candidato": "Jeannette Jara",
@@ -355,7 +659,26 @@
     "Candidato": "Evelyn Matthei",
     "Propuesta": "Busca modernizar tribunales, reducir tiempos procesales y mejorar coordinación institucional."
   },
-
+  {
+    "Tematica": "Justicia / Reformas Judiciales",
+    "Candidato": "Harold Mayne-Nicholls",
+    "Propuesta": "Propone la creación de un órgano autónomo de composición mixta (jueces, académicos, juristas, ciudadanía) para las funciones administrativas y disciplinarias del Poder Judicial."
+  },
+  {
+    "Tematica": "Justicia / Reformas Judiciales",
+    "Candidato": "Marco Enríquez-Ominami",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
+  {
+    "Tematica": "Justicia / Reformas Judiciales",
+    "Candidato": "Franco Parisi",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
+  {
+    "Tematica": "Justicia / Reformas Judiciales",
+    "Candidato": "Eduardo Artés",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
   {
     "Tematica": "Economía Digital / Competencia",
     "Candidato": "Jeannette Jara",
@@ -376,7 +699,26 @@
     "Candidato": "Evelyn Matthei",
     "Propuesta": "Busca modernizar normativas para economía digital, promover seguridad cibernética y proteger consumidores."
   },
-
+  {
+    "Tematica": "Economía Digital / Competencia",
+    "Candidato": "Harold Mayne-Nicholls",
+    "Propuesta": "Ley de Protección de Datos 2.0 (alineada con GDPR). Creación de sandboxes regulatorios para Fintech, telemedicina."
+  },
+  {
+    "Tematica": "Economía Digital / Competencia",
+    "Candidato": "Marco Enríquez-Ominami",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
+  {
+    "Tematica": "Economía Digital / Competencia",
+    "Candidato": "Franco Parisi",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
+  {
+    "Tematica": "Economía Digital / Competencia",
+    "Candidato": "Eduardo Artés",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
   {
     "Tematica": "Transporte / Infraestructura",
     "Candidato": "Jeannette Jara",
@@ -397,7 +739,26 @@
     "Candidato": "Evelyn Matthei",
     "Propuesta": "Busca modernizar transporte con proyectos multimodales, mejor gestión de concesiones y movilidad sostenible."
   },
-
+  {
+    "Tematica": "Transporte / Infraestructura",
+    "Candidato": "Harold Mayne-Nicholls",
+    "Propuesta": "Mejorar el segmento de transmisión eléctrica y su almacenamiento. Aplicar la lógica de concesiones viales para catalizar la construcción de viviendas sociales."
+  },
+  {
+    "Tematica": "Transporte / Infraestructura",
+    "Candidato": "Marco Enríquez-Ominami",
+    "Propuesta": "Plan Nacional de Infraestructura Sanitaria (parte del pilar de Salud)."
+  },
+  {
+    "Tematica": "Transporte / Infraestructura",
+    "Candidato": "Franco Parisi",
+    "Propuesta": "Área estratégica: 'Infraestructura y Corredores bioceánicos'."
+  },
+  {
+    "Tematica": "Transporte / Infraestructura",
+    "Candidato": "Eduardo Artés",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
   {
     "Tematica": "Agricultura / Desarrollo Rural",
     "Candidato": "Jeannette Jara",
@@ -417,5 +778,25 @@
     "Tematica": "Agricultura / Desarrollo Rural",
     "Candidato": "Evelyn Matthei",
     "Propuesta": "Busca modernizar el riego, digitalizar el sector agrícola y apoyar innovación rural con alianzas público-privadas."
+  },
+  {
+    "Tematica": "Agricultura / Desarrollo Rural",
+    "Candidato": "Harold Mayne-Nicholls",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
+  {
+    "Tematica": "Agricultura / Desarrollo Rural",
+    "Candidato": "Marco Enríquez-Ominami",
+    "Propuesta": "No se menciona en el resumen disponible."
+  },
+  {
+    "Tematica": "Agricultura / Desarrollo Rural",
+    "Candidato": "Franco Parisi",
+    "Propuesta": "Área estratégica: 'Agricultura: Protegiendo e impulsando nuestro granero nacional'."
+  },
+  {
+    "Tematica": "Agricultura / Desarrollo Rural",
+    "Candidato": "Eduardo Artés",
+    "Propuesta": "Protección de la pequeña y mediana propiedad agrícola como parte de la estrategia de seguridad alimentaria y desarrollo nacional."
   }
 ]
